@@ -383,6 +383,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Companion Apps & Tools
 - [Onepilot](https://onepilotapp.com) — iOS app to SSH into remote servers and run Claude Code from your phone
+- [Calyban](https://calyban.com) — Free Windows desktop app that browses and installs Claude Code plugins, skills and MCP servers in one click, with a safety scan before install and undo
 
 ### Knowledge Management
 - [bedrock](./plugins/bedrock)
